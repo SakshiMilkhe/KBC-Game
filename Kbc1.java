@@ -1,8 +1,5 @@
 package dsp2;
 
-/*
- * Deepika Pomendkar
-*/
 import java.util.*;
 public class Kbc1 extends Thread {
 	int ll1=0;
